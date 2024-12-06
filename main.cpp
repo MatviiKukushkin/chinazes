@@ -27,6 +27,7 @@ int main() {
     });
 
 string chinazes = "chinazes";
+    cout << chinazes << endl;
 
     showProgress(flag);
 
